@@ -50,4 +50,19 @@ raindata["STATEID"] = raindata["NAME"].str[-5:-3]
 
 
 ###TODO MATCH DATASETS BASED ON USA[STATE_ABBR] and rainddata[STAEID]
+
+merged = usa.set_index('STATE_ABBR').join(raindata.set_index('STATEID'))
+a = merged.head()
 print("t")
+
+# set a variable that will call whatever column we want to visualise on the map
+variable = 'DP01'
+# create figure and axes for Matplotlib
+fig, ax = plt.subplots(1, figsize=(10, 6))
+# create map
+# merged.plot(column=variable, cmap='Blues', linewidth=0.8, ax=ax, edgecolor='0.8')
+
+state_precipiation_data = merged.groupby(['STATE_NAME'], as_index=False).agg('mean')
+print (state_precipiation_data.head())
+
+plt.show()
