@@ -2,6 +2,7 @@ import pandas as pd
 import geopandas as gpd           # importing geopandas
 import matplotlib.pyplot as plt
 from shapely.geometry import Point, Polygon
+import jinja2
 
 # https://medium.com/@erikgreenj/mapping-us-states-with-geopandas-made-simple-d7b6e66fa20d
 usa = gpd.read_file('mapping/states.shp')
@@ -51,18 +52,22 @@ raindata["STATEID"] = raindata["NAME"].str[-5:-3]
 
 ###TODO MATCH DATASETS BASED ON USA[STATE_ABBR] and rainddata[STAEID]
 
-merged = usa.set_index('STATE_ABBR').join(raindata.set_index('STATEID'))
-a = merged.head()
-print("t")
+# merged = usa.set_index('STATE_ABBR').join(raindata.set_index('STATEID'))
+# a = merged.head()
+# print("t")
 
 # set a variable that will call whatever column we want to visualise on the map
 variable = 'DP01'
 # create figure and axes for Matplotlib
 fig, ax = plt.subplots(1, figsize=(10, 6))
 # create map
-# merged.plot(column=variable, cmap='Blues', linewidth=0.8, ax=ax, edgecolor='0.8')
 
-state_precipiation_data = merged.groupby(['STATE_NAME'], as_index=False).agg('mean')
+state_precipiation_data = raindata.groupby(['STATEID'], as_index=False).agg('mean')
 print (state_precipiation_data.head())
+
+usa = usa.set_index('STATE_ABBR').join(state_precipiation_data.set_index('STATEID'))
+
+usa.plot(column='SNOW', cmap='Blues', linewidth=0.8, ax=ax, edgecolor='0.8')
+
 
 plt.show()
