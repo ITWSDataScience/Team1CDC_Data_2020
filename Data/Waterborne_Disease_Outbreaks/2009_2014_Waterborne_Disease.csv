@@ -12,7 +12,7 @@ Utah,Aug,2009,3,Giardia intestinalis,AGI,8,0,0,Community,4,"Well, surface water"
 California,Jun,2010,1,Norovirus,AGI,47,,,Transient Noncommunity,2,Well,Restaurant/Cafeteria
 Georgia,Apr,2010,3,Legionella pneumophila serogroup 1,ARI,4,4,0,Community,5a,"Well, spring",Hotel/Motel
 Illinois,Nov,2010,3,Unidentified,AGI; Other†††,3,3,0,Commercially bottled,11c,Unidentified,Church/Place of worship
-Maryland,Aug,2010,3,Legionella pneumophila serogroup 1,ARI,2,2,0,Community,"5a, 7",Surface water,Personal care home§§§
+Maryland,Aug,2010,3,Legionella pneumophila serogroup 1,ARI,2,2,0,Community,"5a, 7",Surface water,Personal care home
 Minnesota,Jun,2010,2,Giardia intestinalis,AGI,6,0,0,Transient Noncommunity,2,Well,State park
 Missouri,Feb,2010,4,Campylobacter jejuni,AGI,16,5,0,Community,2,Well,Community/Municipality
 Missouri,Mar,2010,1,Campylobacter sp.,AGI,67,4,0,Community,4,Well,Community/Municipality
@@ -25,7 +25,7 @@ New York,Jun,2010,3,Legionella pneumophila serogroup 1,ARI,3,3,0,Community,5a,La
 New York,Jul,2010,3,Legionella pneumophila serogroup 1,ARI,2,2,0,Community,5a,Lake/Reservoir,Hospital/Health care††††
 New York,Jul,2010,3,Legionella pneumophila serogroup 1,ARI,5,3,0,Community,5a,Lake/Reservoir,Hospital/Health care
 Ohio,Feb,2010,4,Legionella pneumophila,ARI,3,3,0,Community,5a,Unidentified,Long-term care facility
-Pennsylvania,May,2010,3,Legionella pneumophila serogroup 1,ARI,3,3,1,Community§§§§,"5a, 3, 6",Well,Personal care home
+Pennsylvania,May,2010,3,Legionella pneumophila serogroup 1,ARI,3,3,1,Community,"5a, 3, 6",Well,Personal care home
 Pennsylvania,Jun,2010,3,Legionella pneumophila serogroup 1,ARI,2,2,0,Community,5a,River/Stream,Apartment/Condo
 Pennsylvania,Jul,2010,2,"Campylobacter jejuni, Cryptosporidium sp.",AGI,10,0,0,Individual/ Private,2,Well,Private residence
 Utah,Apr,2010,3,Campylobacter jejuni,AGI,628,2,0,Community,4,"Well, spring",Community/ Municipality
@@ -44,14 +44,14 @@ Nevada,Jun,2010,1,Giardia intestinalis,AGI,20,1,0,Irrigation,12,Puddle/ Canal/ S
 New York,Nov,2010,3,Legionella pneumophila serogroup 1,ARI,4,4,0,Industrial/ Occupational,5b,Mist/Steam device,Factory/ Industrial facility
 Texas,May,2010,4,Legionella pneumophila serogroup 1,ARI,4,4,3,Unknown,5c,Unknown,Long-term care facility
 Wisconsin,Feb,2010,3,Legionella pneumophila serogroup 1,ARI,8,8,0,Ornamental,5b,Ornamental fountain,Hospital/ Health care
-Alaska,Jun,2012,3,Giardia intestinalis (C),AGI,21,0,0,Transient Noncommunity,"1, 2","Spring, Well, River, Stream§§","Camp, Cabin Setting"
+Alaska,Jun,2012,3,Giardia intestinalis (C),AGI,21,0,0,Transient Noncommunity,"1, 2","Spring, Well, River, Stream","Camp, Cabin Setting"
 Arizona,Mar,2011,4,Unknown,AGI,7,0,0,Nontransient Noncommunity,2,Spring,Outdoor Place of Work
 Colorado,Oct,2012,3,Propylene glycol (S),AGI,26,0,0,Community,6,"Lake, Reservoir, Impoundment","Hospital, Health Care"
 Florida,Aug,2009,3,Legionella pneumophila serogroup 1 (C),ARI,10,4,1,Community,5a,Unknown,"Hotel, Motel, Lodge, Inn"
 Florida,Jul,2011,3,Shigella sonnei subgroup D (C),AGI,22,0,0,Commercially-Bottled,11c,Unknown,"Indoor Workplace, Office"
 Florida,Mar,2012,4,Unknown†††,AGI,3,0,0,Commercially-Bottled,99b,Well,"Indoor Workplace, Office"
 Idaho,May,2012,3,"Campylobacter (C), Giardia intestinalis (C)",AGI,7,0,0,Community,6,"River, Stream, Well","Community, Municipality"
-Illinois,Aug,2012,1,Pantoea agglomerans (C)§§§,Other,12,9,0,Community,99,"Lake, Reservoir, Impoundment","Hospital, Health Care"
+Illinois,Aug,2012,1,Pantoea agglomerans (C),Other,12,9,0,Community,99,"Lake, Reservoir, Impoundment","Hospital, Health Care"
 Maryland,May,2011,3,Legionella pneumophila serogroup 1 (C),ARI,7,6,1,Community,5a,Well,"Hotel, Motel, Lodge, Inn"
 Maryland,May,2012,3,Legionella pneumophila serogroup 1 (C),ARI,3,2,1,Community,5a,"Lake, Reservoir, Impoundment","Hospital, Health Care"
 New Mexico,Jun,2011,3,Norovirus (C),AGI,119,0,0,Transient Noncommunity,2,Spring,"Camp, Cabin Setting"
@@ -73,7 +73,7 @@ Pennsylvania,May,2011,3,Legionella pneumophila serogroup 1 (C),ARI,2,2,0,Communi
 Pennsylvania,Aug,2011,3,Legionella pneumophila serogroup 1 (C),ARI,6,5,1,Community,5a,Well,"Hospital, Health Care"
 Pennsylvania,Mar,2012,4,Legionella pneumophila (C),ARI,2,2,1,Community,5a,"Lake, Reservoir, Impoundment","Hospital, Health Care"
 Pennsylvania,Nov,2012,4,Legionella pneumophila serogroup 1 (C),ARI,4,4,1,Community,5a,"River, Stream","Apartment, Condo"
-Utah,Aug,2011,4,"Shiga toxin-producing E. coli O121 (C), Shiga toxin-producing E. coli O157:H7 (C)",AGI§§§§,56,2,0,Transient noncommunity,2,Spring,"Camp, Cabin Setting"
+Utah,Aug,2011,4,"Shiga toxin-producing E. coli O121 (C), Shiga toxin-producing E. coli O157:H7 (C)",AGI,56,2,0,Transient noncommunity,2,Spring,"Camp, Cabin Setting"
 Utah,Jul,2012,3,Legionella pneumophila serogroup 1 (C),ARI,3,3,0,Community,5a,"Lake, Reservoir, Impoundment","Hotel, Motel, Lodge, Inn"
 Utah,Aug,2012,3,Giardia intestinalis (C),AGI,28,0,0,Community,4,Well,"Subdivision, neighborhood"
 Washington,Jan,2011,3,Legionella pneumophila serogroup 1 (C),ARI,3,3,1,Community,5a,Well,"Hospital, Health Care"
@@ -81,7 +81,7 @@ Wisconsin,Aug,2012,1,Norovirus Genogroup I GI_2  (C),AGI,19,0,0,Transient nonco
 Alaska,August,2014,IV,Giardia duodenalis††,AGI,5,0,0,Community,99a,River/Stream,Community/Municipality
 Arizona,January,2014,I,Norovirus (S),AGI,4,0,0,Transient Noncommunity,"3, 4",Unknown,Camp/Cabin Setting
 Florida,September,2013,III,Legionella pneumophilaserogroup 1,ARI,4,4,0,Community,"5a, 7",Well,Hospital/Health Care
-Florida,November,2013,III,Legionella pneumophilaserogroup 1,ARI,4,4,0,Community,5a,Other,Other§§
+Florida,November,2013,III,Legionella pneumophilaserogroup 1,ARI,4,4,0,Community,5a,Other,Other
 Florida,April,2014,IV,Legionella pneumophilaserogroup 1,ARI,2,2,0,Community,5a,Well,Hotel/Motel/Lodge/Inn
 Florida,June,2014,III,Legionella pneumophilaserogroup 1,ARI,3,2,0,Community,5a,Unknown,Long Term Care Facility
 Florida,August,2014,IV,Legionella pneumophilaserogroup 1,ARI,6,4,0,Community,5a,Unknown,Hotel/Motel/Lodge/Inn
@@ -104,7 +104,7 @@ North Carolina,May,2014,III,Legionella pneumophilaserogroup 1,ARI,7,6,1,Communit
 North Carolina,June,2014,IV,Legionella pneumophilaserogroup 1,ARI,3,3,0,Community,5a,Unknown,Long Term Care Facility
 North Carolina,July,2014,IV,Legionella pneumophila serogroup 1,ARI,3,2,1,Community,5a,Unreported,Long Term Care Facility
 Ohio,April,2013,IV,Legionella pneumophila,ARI,2,2,1,Unknown,5a,Unknown,Long Term Care Facility
-Ohio§§§,September,2013,III,Cyanobacterial toxin,AGI,6,0,0,Community,13a,Lake/Reservoir/Impoundment,Community/Municipality
+Ohio,September,2013,III,Cyanobacterial toxin,AGI,6,0,0,Community,13a,Lake/Reservoir/Impoundment,Community/Municipality
 Ohio,July,2014,IV,Legionella pneumophilaserogroup 1,ARI,14,4,0,Community,5a,River/Stream,Long Term Care Facility
 Ohio,August,2014,III,Cyanobacterial toxin,AGI,110,,,Community,13a,Lake/Reservoir/Impoundment,Community/Municipality
 Ohio,October,2014,IV,Cryptosporidium sp. (S) ,AGI,100,0,0,Individual,99a,River/Stream,Farm/Agricultural Setting
@@ -118,6 +118,6 @@ Rhode Island,April,2013,III,Legionella pneumophilaserogroup 1,ARI,2,2,1,Communit
 Tennessee,July,2013,II,Cryptosporidium parvum,AGI,34,0,0,Transient Noncommunity,"2, 3",Spring,Camp/Cabin Setting
 Tennessee,June,2014,III,"Clostridium difficile (S); Escherichia coli, Enteropathogenic (S)",AGI,12,0,0,Nontransient Noncommunity,99a,Well,Camp/Cabin Setting; Community/Municipality
 Virginia,June,2013,IV,Cryptosporidium sp.,AGI,19,0,0,Individual,99d,Well,Farm/Agricultural Setting
-West Virginia§§§§,January,2014,IV,4-Methylcyclohexanemethanol (MCHM),AGI,369,13,0,Community,13a,River/Stream,Community/Municipality
+West Virginia,January,2014,IV,4-Methylcyclohexanemethanol (MCHM),AGI,369,13,0,Community,13a,River/Stream,Community/Municipality
 Wisconsin,August,2014,I,Giardia duodenalis,AGI,3,0,0,Nontransient Noncommunity,2,Other,National Forest
 Wisconsin,September,2014,III,Campylobacter jejuni,AGI,5,0,0,Individual,2,Well,Private Residence

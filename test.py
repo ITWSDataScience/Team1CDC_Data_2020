@@ -49,16 +49,7 @@ def state_plotter(states, us_map=True):
 raindata = pd.read_csv("Data/2007-2014_GOMS_US_CSV.csv", header=0)
 raindata["STATEID"] = raindata["NAME"].str[-5:-3]
 
-
-###TODO MATCH DATASETS BASED ON USA[STATE_ABBR] and rainddata[STAEID]
-
-# merged = usa.set_index('STATE_ABBR').join(raindata.set_index('STATEID'))
-# a = merged.head()
-# print("t")
-
 # set a variable that will call whatever column we want to visualise on the map
-variable = 'DP01'
-# create figure and axes for Matplotlib
 fig, ax = plt.subplots(1, figsize=(10, 6))
 # create map
 
@@ -68,6 +59,8 @@ print (state_precipiation_data.head())
 usa = usa.set_index('STATE_ABBR').join(state_precipiation_data.set_index('STATEID'))
 
 usa.plot(column='SNOW', cmap='Blues', linewidth=0.8, ax=ax, edgecolor='0.8')
-
-
 plt.show()
+
+disease_data = pd.read_csv("Data/Waterborne_Disease_Outbreaks/2009_2014_Waterborne_Disease.csv", header=0)
+a = disease_data.head(10)
+print(disease_data.head())
