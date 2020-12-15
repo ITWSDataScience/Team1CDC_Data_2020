@@ -1,0 +1,48 @@
+Exposure State/Jurisdiction,Month,Year,Class,Etiology,Predominant Illness,No. cases,No. hospitalizations,No. deaths,Water System,Deficiency,Water Source,Setting
+Drinking Water,,,,,,,,,,,,
+Florida,Jul,2009,4,Legionella sp.,ARI,2,2,0,Community,5a,Well,Membership club
+Idaho,May,2009,3,"Campylobacter sp., Giardia intestinalis",AGI,7,0,0,Community,4,Well,Private residence
+Maine,Jul,2009,3,Hepatitis A,Hep,2,,,Individual/Private,2,Well,Private residence
+Maryland,Sep,2009,1,"Legionella pneumophila serogroup 1, Knoxville 1",ARI,10,9,1,Community,5a,Lake/Reservoir,Apartment/Condo
+Nevada,Dec,2009,3,Legionella pneumophila serogroup 1,ARI,10,1,0,Community,5a,Lake/Reservoir,Hotel/Motel
+New York,Apr,2009,3,Legionella pneumophila serogroup 1,ARI,3,3,2,Community,5a,Lake/Reservoir,Hospital/Health care
+New York,Dec,2009,3,Legionella pneumophila serogroup 1,ARI,3,3,1,Community,5a,Lake/Reservoir,Hospital/Health care
+South Carolina,Jul,2009,3,Legionella pneumophila serogroup 1,ARI,3,3,0,Community,5a,Ground water,Hotel/Motel
+Utah,Jun,2009,3,Legionella pneumophila serogroup 1,ARI,5,5,0,Community,5a,"Well, spring",Hotel/Motel
+Utah,Aug,2009,3,Giardia intestinalis,AGI,8,0,0,Community¶¶,4,"Well, surface water",Subdivision/Neighborhood
+California,Jun,2010,1,Norovirus,AGI,47,,,Transient Noncommunity,2,Well,Restaurant/Cafeteria
+Georgia,Apr,2010,3,Legionella pneumophila serogroup 1,ARI,4,4,0,Community,5a,"Well, spring",Hotel/Motel
+Illinois,Nov,2010,3,Unidentified***,AGI; Other†††,3,3,0,Commercially bottled,11c,Unidentified,Church/Place of worship
+Maryland,Aug,2010,3,Legionella pneumophila serogroup 1,ARI,2,2,0,Community,"5a, 7",Surface water,Personal care home§§§
+Minnesota,Jun,2010,2,Giardia intestinalis,AGI,6,0,0,Transient Noncommunity,2,Well,State park
+Missouri,Feb,2010,4,Campylobacter jejuni,AGI,16,5,0,Community,2,Well,Community/Municipality
+Missouri,Mar,2010,1,Campylobacter sp.,AGI,67,4,0,Community,4,Well,Community/Municipality
+Missouri,Apr,2010,1,Escherichia coli O157:H7,AGI,28,4,0,Community¶¶¶,2,Well,Membership club
+Missouri,Nov,2010,1,Escherichia coli O157:H7,AGI,11,3,1,Individual/Private,2,Well,Private residence
+Montana,Jul,2010,1,Campylobacter jejuni,AGI,101,6,0,Nontransient Noncommunity,"2, 4",Well,Resort
+Nevada,Dec,2010,3,Legionella pneumophila serogroup 1,ARI,4,2,1,Community,5a,"Well, river/stream",Hotel/Motel
+New York,Apr,2010,3,Legionella pneumophila serogroup 1,ARI,3,3,1,Community,"5a, 7",Lake/Reservoir,Hospital/Health care****
+New York,Jun,2010,3,Legionella pneumophila serogroup 1,ARI,3,3,0,Community,5a,Lake/Reservoir,Prison/Jail
+New York,Jul,2010,3,Legionella pneumophila serogroup 1,ARI,2,2,0,Community,5a,Lake/Reservoir,Hospital/Health care††††
+New York,Jul,2010,3,Legionella pneumophila serogroup 1,ARI,5,3,0,Community,5a,Lake/Reservoir,Hospital/Health care
+Ohio,Feb,2010,4,Legionella pneumophila,ARI,3,3,0,Community,5a,Unidentified,Long-term care facility
+Pennsylvania,May,2010,3,Legionella pneumophila serogroup 1,ARI,3,3,1,Community§§§§,"5a, 3, 6",Well,Personal care home
+Pennsylvania,Jun,2010,3,Legionella pneumophila serogroup 1,ARI,2,2,0,Community,5a,River/Stream,Apartment/Condo
+Pennsylvania,Jul,2010,2,"Campylobacter jejuni, Cryptosporidium sp.",AGI,10,0,0,Individual/ Private,2,Well,Private residence
+Utah,Apr,2010,3,Campylobacter jejuni,AGI,628,2,0,Community¶¶,4,"Well, spring",Community/ Municipality
+Utah,Aug,2010,3,"Legionella pneumophila serogroup 1, Camperdown 1",ARI,2,2,1,Community,5a,"Spring, creek",Hotel/Motel
+Utah,Dec,2010,3,Legionella pneumophila serogroup 1,ARI,3,3,0,Community,5a,"Well, surface water",Assisted living/ Rehab
+Vermont,Jan,2010,1,Cryptosporidium sp.,AGI,34,0,0,Individual/ Private,2,Well,Vacation rental house
+Other non-recreational water*,,,,,,,,,,,,
+Alabama,Apr,2009,4,Campylobacter jejuni,AGI,11,0,0,Wilderness/Natural water source,12,River/Stream,Backcountry
+Illinois,Sep,2009,3,Legionella pneumophila serogroup 1,ARI,8,8,2,Unknown,5c,"Ornamental fountain, spa, irrigation¶¶¶¶",Assisted living/Rehab
+Missouri,Jul,2009,3,Unidentified,AGI,75,0,0,Wilderness/ Natural water source,12,Spring,Camp/Cabin
+New York,Aug,2009,3,Giardia intestinalis,AGI,26,1,0,Wilderness/ Natural source,12,Spring,Public outdoor area
+Ohio,Sep,2009,4,Legionella sp.,ARI,2,2,0,Unknown,5c,Unknown,Long-term care facility
+Idaho,Jul,2010,3,Campylobacter jejuni,AGI,3,0,0,Wilderness/ Natural source,12,River/Stream,Backcountry
+Michigan,Jul,2010,1,Legionella pneumophila serogroup 1,ARI,64,17,0,Cooling/Air conditioning,5b,Cooling tower,Military facility
+Mississippi,Jun,2010,1,Legionella pneumophila serogroup 1,ARI,9,6,1,Cooling/Air conditioning,5b,Cooling tower,Hotel/Motel
+Nevada,Jun,2010,1,Giardia intestinalis,AGI,20,1,0,Irrigation,12,Puddle/ Canal/ Swamp,Public outdoor area
+New York,Nov,2010,3,Legionella pneumophila serogroup 1,ARI,4,4,0,Industrial/ Occupational,5b,Mist/Steam device,Factory/ Industrial facility
+Texas,May,2010,4,Legionella pneumophila serogroup 1,ARI,4,4,3,Unknown,5c,Unknown,Long-term care facility
+Wisconsin,Feb,2010,3,Legionella pneumophila serogroup 1,ARI,8,8,0,Ornamental,5b,Ornamental fountain,Hospital/ Health care

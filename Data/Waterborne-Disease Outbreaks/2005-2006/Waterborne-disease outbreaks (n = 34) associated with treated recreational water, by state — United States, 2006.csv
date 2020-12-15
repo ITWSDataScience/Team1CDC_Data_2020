@@ -1,0 +1,37 @@
+﻿,,,,,No. of cases,,
+,,,,Predominant,(deaths),,
+State,Month,Class*,Etiologic agent,illness†,(n = 791),Type,Setting
+Arkansas,Jul,I,Legionella pneumophila§,ARI,37,"Pool, spa",Hotel
+California,Jul,II,Shigella sonnei,AGI,9,Kiddie pool,Private residence
+California,Jul,III,Cryptosporidium¶,AGI,16,Interactive fountain,Community
+Colorado,Aug,II,Cryptosporidium**,AGI,12,Pool,Community
+Colorado,Oct,II,L. pneumophila serogroup 1††,ARI,6,Spa,Private home
+Florida,Jan,I,L. pneumophila serogroup 1,ARI,11 (1),Spa,Hotel
+Florida,May,III,"Giardia, Cryptosporidium§§",AGI,55,Interactive fountain,Community
+Florida,Aug,IV,Cryptosporidium,AGI,3,Pool,Hotel
+Georgia,Aug,IV,Cryptosporidium,AGI,19,Pool,Community
+Georgia,Feb,IV,Unidentified ¶¶,Skin,4,Spa,Cabin
+Georgia,Oct,IV,Cryptosporidium,AGI,4,Pool,Community
+Illinois,Jan,I,Legionella***,ARI,43 (1),"Pool, spa",Hotel
+Illinois,Jul,I,C. hominis**,AGI,65,Pool,"Day camp, water park"
+Illinois,Jun,III,Unidentified†††,Skin,9,Pool,Community
+Illinois,Aug,IV,Cryptosporidium,AGI,4,Pool,Water park
+Illinois,Aug,IV,Cryptosporidium,AGI,18,Pool,Water park
+Indiana,Apr,IV,Unidentified,"ARI, ear",12,Pool,Membership club
+Kansas,Dec,IV,Pseudomonas aeruginosa,Skin,8,Spa,Private residence
+Louisiana,Jul,II,Cryptosporidium**,AGI,29,"Pool, interactive fountain",Water park
+Minnesota,Sep,II,C. hominis,AGI,47,Pool,Schools
+Missouri,Jul,IV,Cryptosporidium,AGI,6,Pool,Community
+Missouri,Jun,III,Cryptosporidium,AGI,116,"Pool, interactive fountain",Water park
+Montana,Jul,IV,Cryptosporidium,AGI,82,Pools,Community
+Nebraska,Dec,III,Unidentified§§§ ¶¶¶,"ARI, eye",24,Pool,Hotel
+New York,Oct,III,L. pneumophila serogroup 1,ARI,2,Spa,Water park
+New York,Mar,IV,Unidentified§§§,ARI,9,Pool,Water park
+Pennsylvania,Jun,IV,Cryptosporidium,AGI,13,Pool,Membership club
+South Carolina,Jul,III,C. hominis**,AGI,12,Pool,Community
+Tennessee,Mar,IV,Unidentified¶¶,Skin,15,"Pool, spa",Hotel
+Wisconsin,Feb,III,Unidentified ¶¶,Skin,28,"Pool, spa",Hotel
+Wisconsin,May,I,Norovirus,AGI,18,Pool,Hotel
+Wisconsin,Aug,II,Cryptosporidium,AGI,22,Pool,Campground
+Wisconsin,Aug,IV,Cryptosporidium,AGI,4,Pool,Community
+Wyoming,Jun,II,Cryptosporidium**,AGI,29,Pools****,Community

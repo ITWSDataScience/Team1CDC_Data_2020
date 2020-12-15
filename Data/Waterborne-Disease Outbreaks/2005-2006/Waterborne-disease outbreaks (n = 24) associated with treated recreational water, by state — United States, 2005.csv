@@ -1,0 +1,27 @@
+﻿,,,,,No. of cases,,
+,,,,Predominant,(deaths),,
+State,Month,Class*,Etiologic agent,illness†,"(n = 3,376)",Type,Setting
+Connecticut,Apr,I,Pseudomonas aeruginosa,Skin,4,"Pool, Spa",Hotel
+Florida,Jun,II,Cryptosporidium,AGI,47,Pool,Hotel
+Iowa,Jun,II,Cryptosporidium,AGI,24,Pool,Community
+Kansas,Jul,II,Cryptosporidium,AGI,84,Pool,Water park
+Kentucky,Jun,IV,Cryptosporidium,AGI,53,Pools,Community
+Kentucky,Jun,IV,Cryptosporidium,AGI,9,"Pool, wading pool",Community
+Louisiana,Aug,IV,Cryptosporidium,AGI,31,Interactive fountain,Water park
+Massachusetts,Jul,III,Giardia intestinalis,AGI,11,Pool,Membership club
+Minnesota,May,II,Unidentified,AGI,32,"Pool, spa",Membership club
+Minnesota,Aug,IV,Legionella pneumophila serogroup 1,ARI,3,Spa,Private residence
+Minnesota,Apr,I,Unidentified§,"ARI, eye",20,"Pool, spa",Hotel
+Minnesota,Mar,IV,Unidentified¶,Skin,8,Spa,Hotel
+North Carolina,Apr,III,L. pneumophila serogroup 1,ARI,4 (1),Spa,Private residence
+New Mexico,Apr,III,P. aeruginosa,"Skin, ear",7,"Pool, spa",Hotel
+New York,Aug,II,Cryptosporidium,AGI,97,Pool,Camp
+New York,Oct,III,Cryptosporidium,AGI,22,Pool,Membership club
+New York,Jun,I,C. hominis**,AGI,"2,307",Interactive fountain,State park
+Ohio,Jul,III,Chlorine gas††,ARI,19,Pool,Community
+Ohio,Aug,III,C. hominis,AGI,523,Pools,Community
+Oregon,Jul,II,C. parvum,AGI,20,Pool,Membership club
+South Carolina,Oct,III,L. pneumophila§§,ARI,18,Spa,Hotel
+Vermont,Feb,IV,Unidentified¶,Skin,18,Spa,Hotel
+Wisconsin,Jul,I,P. aeruginosa,Skin,9,"Pool, Spa",Hotel
+Wyoming,Jul,IV,Campylobacter jejuni,AGI,6,Kiddie pool,Private residence
