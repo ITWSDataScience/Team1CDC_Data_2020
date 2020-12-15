@@ -10,8 +10,8 @@ Idaho,September,2014,III,Giardia duodenalis,AGI,2,0,0,Unknown,99a,Unknown,Hotel/
 Indiana,July,2013,III,Cryptosporidium sp.,AGI,7,0,0,Community,4,Unknown,Mobile Home Park
 Indiana,November,2014,IV,Unknown,AGI,3,0,0,Community,99a,Unknown,Apartment/Condo
 Kansas,June,2014,IV,Legionella pneumophilaserogroup 1,ARI,2,2,0,Community,5a,Unknown,Hospital/Health Care
-Maryland,November,2012,III,Legionella pneumophilaserogroup 1,ARI,2¶¶,2¶¶,0,Community,5a,Well,Hotel/Motel/Lodge/Inn
-Maryland,February,2013,III,Nitrite***,AGI; Neuro,14,,0,Community,6,Lake/Reservoir/Impoundment,Indoor workplace/Office
+Maryland,November,2012,III,Legionella pneumophilaserogroup 1,ARI,2,2,0,Community,5a,Well,Hotel/Motel/Lodge/Inn
+Maryland,February,2013,III,Nitrite,AGI; Neuro,14,,0,Community,6,Lake/Reservoir/Impoundment,Indoor workplace/Office
 Maryland,April,2014,III,Legionella pneumophilaserogroup 1,ARI,2,2,0,Community,5a,Lake/Reservoir/Impoundment,Apartment/Condo
 Maryland,July,2014,III,Legionella pneumophilaserogroup 1,ARI,2,1,0,Community,5a,Well,Hotel/Motel/Lodge/Inn
 Maryland,August,2014,III,Legionella pneumophilaserogroup 1,ARI,2,2,0,Community,5a,River/Stream,Prison/Jail (Juvenile/Adult)
@@ -25,18 +25,18 @@ North Carolina,May,2014,III,Legionella pneumophilaserogroup 1,ARI,7,6,1,Communit
 North Carolina,June,2014,IV,Legionella pneumophilaserogroup 1,ARI,3,3,0,Community,5a,Unknown,Long Term Care Facility
 North Carolina,July,2014,IV,Legionella pneumophila serogroup 1,ARI,3,2,1,Community,5a,Unreported,Long Term Care Facility
 Ohio,April,2013,IV,Legionella pneumophila,ARI,2,2,1,Unknown,5a,Unknown,Long Term Care Facility
-Ohio§§§,September,2013,III,Cyanobacterial toxin¶¶¶,AGI,6,0,0,Community,13a,Lake/Reservoir/Impoundment,Community/Municipality
+Ohio§§§,September,2013,III,Cyanobacterial toxin,AGI,6,0,0,Community,13a,Lake/Reservoir/Impoundment,Community/Municipality
 Ohio,July,2014,IV,Legionella pneumophilaserogroup 1,ARI,14,4,0,Community,5a,River/Stream,Long Term Care Facility
-Ohio,August,2014,III,Cyanobacterial toxin¶¶¶,AGI,110,,,Community,13a,Lake/Reservoir/Impoundment,Community/Municipality
-Ohio,October,2014,IV,Cryptosporidium sp. (S) ****,AGI,100,0,0,Individual,99a,River/Stream,Farm/Agricultural Setting
+Ohio,August,2014,III,Cyanobacterial toxin,AGI,110,,,Community,13a,Lake/Reservoir/Impoundment,Community/Municipality
+Ohio,October,2014,IV,Cryptosporidium sp. (S) ,AGI,100,0,0,Individual,99a,River/Stream,Farm/Agricultural Setting
 Ohio,December,2014,IV,Viral-Unknown (S),AGI,2,0,0,Commercially Bottled,99b,Unknown,Private Residence
 Oregon,June,2013,I,Cryptosporidium parvum IIaA15G2R1,AGI,119,2,0,Community,3,Lake/Reservoir/Impoundment,Community/Municipality
 Oregon,September,2014,III,Legionella pneumophilaserogroup 1,ARI,4,4,1,Community,5a,Well,Apartment/Condo
 Pennsylvania,December,2013,III,Legionella pneumophilaserogroup 1,ARI,2,2,0,Unknown,5a,Unknown,Hospital/Health Care
-Pennsylvania,February,2014,III,Legionella pneumophilaserogroup 1,ARI,5,5,0,Community,5a,River/Stream,Long Term Care Facility****
+Pennsylvania,February,2014,III,Legionella pneumophilaserogroup 1,ARI,5,5,0,Community,5a,River/Stream,Long Term Care Facility
 Pennsylvania,October,2014,III,Legionella pneumophila,ARI,2,2,1,Community,5a,Unknown,Long Term Care Facility
 Rhode Island,April,2013,III,Legionella pneumophilaserogroup 1,ARI,2,2,1,Community,5a,Lake/Reservoir/Impoundment,Hospital/Health Care
-Tennessee,July,2013,II,Cryptosporidium parvum,AGI,34,0,0,Transient Noncommunity¶¶¶¶,"2, 3",Spring,Camp/Cabin Setting
+Tennessee,July,2013,II,Cryptosporidium parvum,AGI,34,0,0,Transient Noncommunity,"2, 3",Spring,Camp/Cabin Setting
 Tennessee,June,2014,III,"Clostridium difficile (S); Escherichia coli, Enteropathogenic (S)",AGI,12,0,0,Nontransient Noncommunity,99a,Well,Camp/Cabin Setting; Community/Municipality
 Virginia,June,2013,IV,Cryptosporidium sp.,AGI,19,0,0,Individual,99d,Well,Farm/Agricultural Setting
 West Virginia§§§§,January,2014,IV,4-Methylcyclohexanemethanol (MCHM),AGI,369,13,0,Community,13a,River/Stream,Community/Municipality
