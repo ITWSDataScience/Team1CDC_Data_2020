@@ -53,14 +53,25 @@ raindata["STATEID"] = raindata["NAME"].str[-5:-3]
 fig, ax = plt.subplots(1, figsize=(10, 6))
 # create map
 
-state_precipiation_data = raindata.groupby(['STATEID'], as_index=False).agg('mean')
-print (state_precipiation_data.head())
+avg_state_precipiation_data = raindata.groupby(['STATEID'], as_index=False).agg('mean')
+print (avg_state_precipiation_data.head())
 
-usa = usa.set_index('STATE_ABBR').join(state_precipiation_data.set_index('STATEID'))
+usa = usa.set_index('STATE_ABBR').join(avg_state_precipiation_data.set_index('STATEID'))
 
-usa.plot(column='SNOW', cmap='Blues', linewidth=0.8, ax=ax, edgecolor='0.8')
-plt.show()
+rainnplot = usa.plot(column='SNOW', cmap='Blues', linewidth=0.8, ax=ax, edgecolor='0.8')
 
 disease_data = pd.read_csv("Data/Waterborne_Disease_Outbreaks/2009_2014_Waterborne_Disease.csv", header=0)
 a = disease_data.head(10)
 print(disease_data.head())
+
+avg_disease_data = disease_data.groupby(['Exposure_Jurisdiction'], as_index=False).agg('mean')
+
+usa2 = usa.set_index('STATE_NAME').join(avg_disease_data.set_index('Exposure_Jurisdiction'))
+
+b = usa2.head(10)
+print(usa2.head())
+
+fig, ax = plt.subplots(1, figsize=(10, 6))
+
+usa2.plot(column='No.deaths', cmap='Reds', linewidth=0.8, ax=rainnplot, edgecolor='0.8',alpha=0.5)
+plt.show()

@@ -1,4 +1,4 @@
-Exposure State/Jurisdiction,Month,Year,Class,Etiology,Predominant Illness,No. cases,No. hospitalizations,No. deaths,Water System,Deficiency,Water Source,Setting
+Exposure_Jurisdiction,Month,Year,Class,Etiology,Predominant_Illness,No.cases,No.hospitalizations,No.deaths,Water System,Deficiency,Water Source,Setting
 Florida,Jul,2009,4,Legionella sp.,ARI,2,2,0,Community,5a,Well,Membership club
 Idaho,May,2009,3,"Campylobacter sp., Giardia intestinalis",AGI,7,0,0,Community,4,Well,Private residence
 Maine,Jul,2009,3,Hepatitis A,Hep,2,,,Individual/Private,2,Well,Private residence
