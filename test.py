@@ -58,7 +58,7 @@ print (avg_state_precipiation_data.head())
 
 usa = usa.set_index('STATE_ABBR').join(avg_state_precipiation_data.set_index('STATEID'))
 
-rainnplot = usa.plot(column='SNOW', cmap='Blues', linewidth=0.8, ax=ax, edgecolor='0.8')
+rainnplot = usa.plot(column='SNOW', cmap='Blues', linewidth=0.8, ax=ax, edgecolor='0.5', alpha = .5)
 
 disease_data = pd.read_csv("Data/Waterborne_Disease_Outbreaks/2009_2014_Waterborne_Disease.csv", header=0)
 a = disease_data.head(10)
@@ -71,7 +71,5 @@ usa2 = usa.set_index('STATE_NAME').join(avg_disease_data.set_index('Exposure_Jur
 b = usa2.head(10)
 print(usa2.head())
 
-fig, ax = plt.subplots(1, figsize=(10, 6))
-
-usa2.plot(column='No.deaths', cmap='Reds', linewidth=0.8, ax=rainnplot, edgecolor='0.8',alpha=0.5)
+usa2.plot(column='No.hospitalizations', cmap='Reds', linewidth=0.8, ax=rainnplot, edgecolor='0.5',alpha=.5)
 plt.show()
